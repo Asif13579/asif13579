@@ -78,6 +78,8 @@ I am passionate about building AI-powered applications using Large Language Mode
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/asif-ahmad-2632b41b6/
+- 💻 GitHub: https://github.com/Asif13579
+- 🌐 Portfolio: https://portfolio-mu-umber-58.vercel.app/
 - 📧 Email: asifahmad561@gmail.com
 
 
